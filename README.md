@@ -1,1 +1,1 @@
-# lab-agile.planning
+# lab-agile.planningEste repositorio contiene el laboratorio para planificación ágil 
